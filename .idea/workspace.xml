@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="628ffcb6-2a3f-4deb-8da0-001968920ba4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/intro/DBConOracle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/intro/DBConMYSQL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +55,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="DBConOracle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbc.intro.DBConOracle" />
+    <configuration name="DBConMYSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.intro.DBConMYSQL" />
       <module name="javaEE-learning" />
       <extension name="coverage">
         <pattern>
@@ -73,7 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DBConOracle" />
+        <item itemvalue="Application.DBConMYSQL" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +87,8 @@
       <workItem from="1579541511846" duration="967000" />
       <workItem from="1579855454748" duration="1515000" />
       <workItem from="1579882747966" duration="194000" />
-      <workItem from="1580017503802" duration="2886000" />
+      <workItem from="1580017503802" duration="3631000" />
+      <workItem from="1580234818658" duration="340000" />
     </task>
     <servers />
   </component>
