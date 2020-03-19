@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="628ffcb6-2a3f-4deb-8da0-001968920ba4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/intro/DBConMYSQL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,6 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SmartClassrooms/repo/pi" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -88,7 +88,8 @@
       <workItem from="1579855454748" duration="1515000" />
       <workItem from="1579882747966" duration="194000" />
       <workItem from="1580017503802" duration="3631000" />
-      <workItem from="1580234818658" duration="340000" />
+      <workItem from="1580234818658" duration="789000" />
+      <workItem from="1582278000664" duration="624000" />
     </task>
     <servers />
   </component>
